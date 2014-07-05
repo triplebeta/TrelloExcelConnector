@@ -19,8 +19,6 @@ way to publish it so even non-developers can use it.
 
 Please feel free to download, review and improve the code.
 
-Pull requests will only be accepted as plain-text VBA files, not as XLSM files.
-
 Sincerely,
 Jeroen Bijleveld
 Triple Beta
