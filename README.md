@@ -26,10 +26,10 @@ Follow these steps to connect your Excel connection to Trello:
 3. Right-click the file, go to properties and Unblock the file
 4. Open the Excel file, click the button in the yellow bar to enable the content
 5. This will bring up a dialog:
-<p><img src="https://github.com/triplebeta/TrelloExcelConnector/img/CannotLoadTrelloConfig.png"/></p>
+<p><img src="https://github.com/triplebeta/TrelloExcelConnector/blob/master/img/CannotLoadTrelloConfig.png"/></p>
 
 6. Click Yes and you will see a dialog:
-<p><img src="https://github.com/triplebeta/TrelloExcelConnector/img/ConfigureConnection.png"/></p>
+<p><img src="https://github.com/triplebeta/TrelloExcelConnector/blob/master/img/ConfigureConnection.png"/></p>
 
 
 ### Get your API key
@@ -40,7 +40,7 @@ You need to setup the connection details just once:
 4. Then scroll to the bottom of the page to get the Secret (copy this to the Secret field)
 5. Scroll back up to where you go the Developer key, and click the Token link.
 Click `Allow` to grant the application permission to read/write your Trello board:
-<p><img src="https://github.com/triplebeta/TrelloExcelConnector/img/Token.png"/></p>
+<p><img src="https://github.com/triplebeta/TrelloExcelConnector/blob/master/img/Token.png"/></p>
 
 6. Paste this value in the field Read/Write token.
 7. Click OK to store the settings and you're good to go!
@@ -52,6 +52,6 @@ _Warning: keep these values secure!__
 ### Using the Trello tab
 The Excelfile will show you an extra tab named TRELLO
 
-![](https://github.com/triplebeta/TrelloExcelConnector/img/TrelloTab.png)
+![](https://github.com/triplebeta/TrelloExcelConnector/blob/master/img/TrelloTab.png)
 
 Play around with them, use one worksheet for each Trello board.
